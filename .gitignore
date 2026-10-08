@@ -16,3 +16,5 @@ venv/
 
 # instruction files
 mp1-*.md
+# pipeline output
+output/
